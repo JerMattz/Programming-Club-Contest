@@ -1,6 +1,16 @@
 # Programming-Club-Contest
 Design a simple mobile app interface for a to-do list. The app should allow users to add tasks, mark them as completed, and delete tasks. Focus on creating a clean and user-friendly interface using basic UI components like buttons, lists, and text inputs.
 
+# Intructions
+1. Download the 'ZIP File' from the repositroy.
+2. Extract the file on your system.
+3. Now open the 'todo_gui.py' file and Run it.
+4. Once the code is compiled 'GUI' pops up.
+5. Now you are ready to use the 'TODO Web App'.
+
+# Contols
+* The GUI has 4 buttons, namely 'Add', 'Edit', 'Complete', 'Exit'.
+
 # App Interface
 The app interface is straightforward and consists of the following components:
 
