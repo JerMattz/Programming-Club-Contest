@@ -33,3 +33,9 @@ Keep your task list focused and manageable. Add only essential tasks to avoid cl
 Mark tasks as completed when you finish them to stay organized.
 Regularly delete completed or unnecessary tasks to keep the list fresh and relevant.
 
+We hope you find this simple to-do list app helpful in managing your tasks efficiently!
+
+Thank you for using our app!
+
+
+
