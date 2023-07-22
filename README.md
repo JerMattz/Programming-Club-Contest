@@ -10,6 +10,10 @@ Design a simple mobile app interface for a to-do list. The app should allow user
 
 # Contols
 * The GUI has 4 buttons, namely 'Add', 'Edit', 'Complete', 'Exit'.
+* Add button - Type your todo on the input field and click on 'add', it will be added to the existing list.
+* Edit button - If you want to edit a todo from the list, click and select the particular todo from the list container and edit on the input field and finally click 'edit'.
+* Complete button - If you are done with the todo, You can select particular todo from the list container and click on 'complete'.
+* Exit button - As the name says, It closes the program and exits.
 
 # App Interface
 The app interface is straightforward and consists of the following components:
